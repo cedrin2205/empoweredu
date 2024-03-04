@@ -1,0 +1,19 @@
+section {
+  font-family: 'Poppins',sans-serif;
+}
+
+section form  {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  top: 200px;
+  left: 300px;
+}
+
+form label {
+  display: flex;
+  align-items: start;
+
+}
